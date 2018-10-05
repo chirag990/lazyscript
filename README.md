@@ -1,0 +1,2 @@
+# lazyscript
+learning
